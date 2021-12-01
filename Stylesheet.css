@@ -1,0 +1,28 @@
+Body {
+background: #E8D2BE;
+color: #Black;
+}
+
+/* Koppen */
+h1, h2, h3, h4, h5, h6{
+  color: #Black;
+  line-height: 1;
+}
+
+header {
+  background-color:#66cdaa;
+  width: 100%;
+  height: 200px;
+}
+
+footer {
+  background-color:#ff7f50;
+  width: 100%;
+  height: 200px;
+}
+
+/* Inhoud */
+.inhoud {
+  font-size: 1.1em;
+  background-color: #E8D2BE;
+}
